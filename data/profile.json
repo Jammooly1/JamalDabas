@@ -1,92 +1,57 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "email": "dabasjamal@gmail.com",
+    "location": "Texas, USA"
   },
   "skills": [
     {
       "title": "General",
-      "type": "percent",
+      "type": "tag",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "Application Development"
         },
         {
-          "name": "Mobile/Web App Development",
-          "percent": 95
+          "name": "Web App Development"
         },
         {
-          "name": "Product Management",
-          "percent": 85
+          "name": "Backend Development"
         },
         {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Full-Stack Development"
         },
         {
-          "name": "Game Development",
-          "percent": 70
+          "name": "Scripting and Bots"
         },
         {
-          "name": "Blockchain",
-          "percent": 85
-        },
-        {
-          "name": "Dev Ops",
-          "percent": 81
-        },
-        {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
-          "percent": 80
+          "name": "UI"
         }
       ]
     },
     {
-      "title": "Languages",
-      "type": "percent",
+      "title": "Programming Languages",
+      "type": "tag",
       "subskills": [
         {
-          "name": "Javascript",
-          "percent": 96
+          "name": "Java"
         },
         {
-          "name": "Java",
-          "percent": 82
+          "name": "C#"
         },
         {
-          "name": "Python",
-          "percent": 85
+          "name": "Python"
         },
         {
-          "name": "C#",
-          "percent": 74
+          "name": "C"
         },
         {
-          "name": "Solidity",
-          "percent": 85
+          "name": "C++"
         },
         {
-          "name": "Dart",
-          "percent": 75
+          "name": "NodeJS"
         },
         {
-          "name": "Go",
-          "percent": 60
+          "name": "ReactJS"
         }
       ]
     },
@@ -98,82 +63,73 @@
           "name": "React"
         },
         {
-          "name": "Flutter"
+          "name": "Gatsby"
         },
         {
-          "name": "React Native"
+          "name": "Java Maven"
         },
         {
-          "name": "Vue"
+          "name": "Java Gradle"
         },
         {
-          "name": "Spring"
+          "name": "Java JBoss"
         },
         {
-          "name": "Angular"
+          "name": "ASP.NET Framework"
         },
         {
-          "name": "Electron"
+          "name": "ASP.NET Core"
+        },
+        {
+          "name": "Spring Boot"
         },
         {
           "name": "Node"
         },
         {
-          "name": "Flusk"
-        },
-        {
-          "name": "Express"
-        },
-        {
-          "name": "Koa"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
+          "name": "Python Flask"
         }
       ]
     },
     {
-      "title": "Software",
+      "title": "Project Development",
       "type": "tag",
       "subskills": [
         {
           "name": "Docker"
         },
         {
-          "name": "Jira"
+          "name": "Kubernetes"
         },
         {
-          "name": "Unity"
+          "name": "Salesforce"
         },
         {
-          "name": "Godot"
+          "name": "Postman"
         },
         {
-          "name": "Google Analytics"
+          "name": "Git"
+        },
+        {
+          "name": "IntelliJ"
+        },
+        {
+          "name": "JetBrains Rider"
+        },
+        {
+          "name": "Visual Studio Code"
+        },
+        {
+          "name": "Visual Studio IDE"
+        },
+        {
+          "name": "Agile Scrum"
+        },
+        {
+          "name": "RESTful Services"
+        },
+        {
+          "name": "AWS"
         }
       ]
     },
@@ -182,127 +138,148 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "MySQL"
         },
         {
-          "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
+          "name": "JDBC"
         },
         {
           "name": "Firebase"
         },
         {
-          "name": "Elastic Search"
+          "name": "Salesforce"
+        },
+        {
+          "name": "H2"
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "English"
+        },
+        {
+          "name": "Arabic"
         }
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "I'm an ambitious and young computer scientist with a love and passion for software engineering. I enjoy developing software of many types ranging from web apps and APIs to desktop apps and bots. I've been in the industry for over a year now and I'm desiring greater goals to reach and overcome. I am constantly open to new opportunities and networks.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
-    {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "University of Texas at San Antonio",
+      "degree": "Bachelor's of Science in Computer Science",
+      "start": "2017",
+      "end": "2020",
+      "gpa": "3.97/4.00"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Software Engineer III",
+      "company": "USAA",
+      "description": ["Contribute to USAA networks that are relied upon by tens of thousands of users.", " Develop and maintain USAA  programs and applications.", " Working on two large projects, Chat and Secure Member Messaging (SMM), that provides member communication with member service representatives (MSRs).", "Chat: Allows the member to chat immediately with an MSR if available and are put in a queue if none are.", "SMM: Similar to an email system where a member will fill out a form with the details of their concerns and will be sent to an MSR. An MSR has 12 hours to respond to the member's message.", "Omni-Channels are used in both SMM and Chat applications in order to ensure smooth routing of members to MSRs.", "Primary technologies involved are Springboot, Salesforce, JavaEE, Gradle, Gitlab, Docker, Kubernetes, and ReactJS."],
+      "start": "09/2020",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "Applicaton Developer Intern",
+      "company": "Optum/Wellmed",
+      "description": ["Trained in .NET Framework and .NET Core. ","Performed code review, analysis, and documentation for existing projects.","Created an intranet business side web app using ASP.NET Webforms 4.5."],
+      "start": "06/2019",
+      "end": "08/2019"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Cyber Security Intern",
+      "company": "UDP, Inc",
+      "description": ["Microsoft Security Event Research.", "Microsoft Security Analysis.", "Microsoft Security Auditing and Log Shipping."],
+      "start": "03/2017",
+      "end": "05/2017"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Summer Office Assistant",
+      "company": "Dabas Cancer Institute",
+      "description": ["Managed a medical database","Maintained patient medical records","Performed various office duties."],
+      "start": "06/2012",
+      "end": "06/2014"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://www.linkedin.com/in/jdabas/"
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/Jammooly_D"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://github.com/Jammooly1"
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/jammooly/"
     }
   ],
-  "role": "Technologist",
+  "role": "Software Engineer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "name": "Armchair Athletes Website",
+      "company": "Armchair Athletes",
+      "description": ["I personally created the website for Armchair Athletes, an organization that I co-founded with 2 others.",
+                      "I used GatsbyJS, ReactJS, and SASS/SCSS",
+                      "Organization Description: \"We are three good friends that want to share our love of our favorite sports and strong opinions of it to one another and to an audience. We will upload audio/video podcasts weekly discussing current events and popular topics in today's basketball and other sports and update our social media accounts with the latest news in sports as well.\""],
+      "link": "https://acathletes.com/"
+    },
+    {
+      "name": "Covid19 Tracker",
+      "company": "Personal",
+      "description": ["Covid19 Tracker that shows the number of confirmed cases, recoveries, and deaths globally and per country.",
+                      "Technologies used involve ReactJS as the frontend, Firebase as the backend, and involves using an API.",
+                      "API: https://covid19.mathdro.id/api"],
+      "link": "https://covid-19-tracker-6f718.web.app/"
+    },
+    {
+      "name": "Refinder",
+      "company": "UTSA CITE COMPETITION",
+      "description": ["Refinder is an online market place for people and organizations to buy and trade building materials.",
+                      "Technologies used involve ReactJS, Redux as the frontend and Google Firebase as the backend."],
+      "link": "https://refinder.app/"
+    },
+    {
+      "name": "Supreme/Sneaker Bot",
+      "company": "Personal",
+      "description": ["Using Selenium and C#, I'm developing a browser automation bot that is able to go to a website I specify and fully select and buy a specific product."],
+      "link": ""
+    },
+    {
+      "name": "Environment Manager Web App",
+      "company": "Optum/Wellmed",
+      "description": ["Using Visual Studio Enterprise 2017, I Created a business side web app with admin controls that displays current WellMed intranet websites information and details",
+                      "Data is dynamically loaded from APIs and other data sources and it can be modified manually.",
+                      "Framework used was ASP.NET Webforms 4.5.", 
+                      "Programming and scripting languages involved were C#, HTML/CSS, and Javascript."],
+      "link": ""
+    },
+    {
+      "name": "YouChoose",
+      "company": "Rowdy Hacks Hackathon",
+      "description": ["This program randomly selects a food category based on the zip code entered. The food category and zip code are then used to pull restaurants near you using Google's API/Google's Cloud Platform.",
+                      "We used Java and JavaFX and Google API's - geocode and places - to give us a list of updated restaurant information. There is a blinking mechanism that alerts and helps the user to notify which food category was randomly selected by the application. We use the zip code to find the latitude and longitude associated with it (geocode API). Then we used latitude and longitude to find nearby restaurants according to your Randomly generated food category (places API)."
+                    ],
+      "link": "https://devpost.com/software/youchoose-nm3wkd"
+    },
+    {
+      "name": "Memory Vision",
+      "company": "UTSA Application Programming Course Project",
+      "description": ["Using JavaFX and Scene builder, my group and I created a C memory generator.",
+                      "C memory generator: Visual educational tool that displays how the C programming language works in memory."],
+      "link": ""
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Jamal Dabas"
 }

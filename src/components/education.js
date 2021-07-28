@@ -7,10 +7,15 @@ const Education = ({ data }) => (
       data.map(item => (
         <div className="my-2" key={item.degree}>
           <h2 className="item-header text-lg">{item.degree}</h2>
-          <h3 className="item-sub">{item.institution}</h3>
+          <h3 className="item-sub">{item.desc}</h3>
+          <h4 className="item-sub">{item.institution}</h4>
           <p className="text-sm text-neutral-500 font-light">
             {item.start} - {item.end}
           </p>
+          <h5 className="text-sm text-neutral-600">
+            Overall GPA: {item.gpa}
+          </h5>
+          <h5 className="text-sm text-neutral-600">Summa Cum Laude</h5>
         </div>
       ))}
   </section>

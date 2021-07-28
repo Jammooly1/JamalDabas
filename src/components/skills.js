@@ -27,7 +27,7 @@ const Skills = ({ data }) => (
         ))}
       </div>
     ))}
-  </section>
+  </section> 
 );
 
 export default Skills;
