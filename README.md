@@ -21,7 +21,7 @@ Gatsby Starter Resume CMS is a free starter template with  Netlify CMS as headle
 - Prettier
 - Social media links
 
-## Quick Start
+<!-- ## Quick Start
 
 ### Create a Gatsby site
 
@@ -66,4 +66,4 @@ Finally need to set up an OAuth application on GitHub. Start development build w
 If it doesn't work, the instructions for setting up OAuth can be found here: [Netlify’s Using an Authorization Provider](https://www.netlify.com/docs/authentication-providers/#using-an-authentication-provider).
 
 I hope you enjoy the resume template, if you do please follow me on [twitter](https://twitter.com/barancezayirli) and send me your results.
-I would love to see it!
+I would love to see it! -->
