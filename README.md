@@ -1,4 +1,4 @@
-# Gatsby Starter Resume CMS
+<!-- # Gatsby Starter Resume CMS
 
 ![resume-template](./preview.png "Gatsby resume template")
 
@@ -8,7 +8,7 @@ Gatsby Starter Resume CMS is a free starter template with  Netlify CMS as headle
 [Demo](https://gatsby-resume-starter.netlify.com/)
 
 [Customization and Theming](https://barancezayirli.com/free-gatsby-resume-starter-with-netlify-cms/#customization)
-
+ -->
 ## Features
 
 - One-page resume/CV
