@@ -10,7 +10,7 @@ const Projects = ({ data }) => (
         <p className="py-4">{item.description.map((desc) => (
               <li>{desc}</li>
           ))}</p>
-        {item.link != "" && (
+        {item.link !== "" && (
           <div className="flex justify-end">
             <a
               className="btn btn-secondary"
